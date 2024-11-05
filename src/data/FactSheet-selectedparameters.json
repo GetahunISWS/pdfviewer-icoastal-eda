@@ -1,0 +1,62 @@
+[
+    {
+        "Parameter_Code": "110",
+        "ParameterName": "Dissolved oxygen ",
+        "Facthsheet_filename": "110_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "113",
+        "ParameterName": "Turbidity ",
+        "Facthsheet_filename": "113_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "208",
+        "ParameterName": "Fecal coliform ",
+        "Facthsheet_filename": "208_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "350",
+        "ParameterName": "Chloride ",
+        "Facthsheet_filename": "350_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "351",
+        "ParameterName": "Total ammonia nitrogen ",
+        "Facthsheet_filename": "351_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "352",
+        "ParameterName": "Nitrate+Nitrite Nitrogen ",
+        "Facthsheet_filename": "352_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "353",
+        "ParameterName": "Total kjeldahl nitrogen ",
+        "Facthsheet_filename": "353_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "355",
+        "ParameterName": "Total phosphorus ",
+        "Facthsheet_filename": "355_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "359",
+        "ParameterName": "Total nitrogen ",
+        "Facthsheet_filename": "359_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "700",
+        "ParameterName": "Total organic nitrogen ",
+        "Facthsheet_filename": "700_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "701",
+        "ParameterName": "Total inorganic nitrogen ",
+        "Facthsheet_filename": "701_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "702",
+        "ParameterName": "Conductivity ",
+        "Facthsheet_filename": "702_Factsheet.pdf"
+    }
+]

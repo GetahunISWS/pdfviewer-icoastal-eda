@@ -1,0 +1,1250 @@
+[
+    {
+        "record_code": "19700940",
+        "ParameterCode": "940",
+        "StationName": "Fox River at Rt. 173 near Channel Lake (FR1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "23600940",
+        "ParameterCode": "940",
+        "StationName": "Nippersink Creek near Spring Grove (NC1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "18400940",
+        "ParameterCode": "940",
+        "StationName": "Fox River at Chapel Rd, Johnsburg (FR2)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "26600940",
+        "ParameterCode": "940",
+        "StationName": "Sleepy Hollow Creek at Stilling Ln. (SH1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "2300940",
+        "ParameterCode": "940",
+        "StationName": "Fox River at Burtons Br. (FR3)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "68800940",
+        "ParameterCode": "940",
+        "StationName": "Silver Creek at Lk shore Dr. & E. Park Ln. (SC1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "25800940",
+        "ParameterCode": "940",
+        "StationName": "Fox River at Rawson Rd., E Oakwood Hills (FR4)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "27100940",
+        "ParameterCode": "940",
+        "StationName": "Crystal Lk Outlet-Rt 31, Algonquin (CL1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "2400940",
+        "ParameterCode": "940",
+        "StationName": "Fox River at Algonquin (FR5)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "504600940",
+        "ParameterCode": "940",
+        "StationName": "Tyler Creek at Damisch (TC1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "504900940",
+        "ParameterCode": "940",
+        "StationName": "Tyler Creek at Highland (TC2)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "504800940",
+        "ParameterCode": "940",
+        "StationName": "Tyler Creek at McCornack (TC3)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "504500940",
+        "ParameterCode": "940",
+        "StationName": "Tyler Creek at Timber Trail (TC4)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "504400940",
+        "ParameterCode": "940",
+        "StationName": "Tyler Creek at Old Randall (TC5)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "504200940",
+        "ParameterCode": "940",
+        "StationName": "Tyler Creek at Spring Cove (TC6)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "504700940",
+        "ParameterCode": "940",
+        "StationName": "Tyler Creek at Judson (TC7)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "2500940",
+        "ParameterCode": "940",
+        "StationName": "Poplar Creek at Elgin (PC1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "2600940",
+        "ParameterCode": "940",
+        "StationName": "Fox River at South Elgin (FR6)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "504300940",
+        "ParameterCode": "940",
+        "StationName": "Sandy Creek  (SY1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "503300940",
+        "ParameterCode": "940",
+        "StationName": "Otter Creek at Bowes Rd. (OC1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "503400940",
+        "ParameterCode": "940",
+        "StationName": "Fitchie Creek at Bowes Rd. (FT1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "503500940",
+        "ParameterCode": "940",
+        "StationName": "Stoney Creek at Stevens Rd. (ST1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "503600940",
+        "ParameterCode": "940",
+        "StationName": "Otter Creek at Burr (OC2)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "503700940",
+        "ParameterCode": "940",
+        "StationName": "Otter Creek at Silver Glen Rd. (OC3)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "504100940",
+        "ParameterCode": "940",
+        "StationName": "Ferson Creek at Hidden Springs (FC1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "504000940",
+        "ParameterCode": "940",
+        "StationName": "Ferson Creek at Burlington & Corran Rds. (FC2)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "503800940",
+        "ParameterCode": "940",
+        "StationName": "Ferson Creek at Burr (FC3)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "503900940",
+        "ParameterCode": "940",
+        "StationName": "Ferson Creek at Randall Rd. (FC4)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "7900940",
+        "ParameterCode": "940",
+        "StationName": "Ferson Creek near St. Charles (FC5)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "4000940",
+        "ParameterCode": "940",
+        "StationName": "Fox River at Fabyan Pk-Geneva (FR7)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "47100940",
+        "ParameterCode": "940",
+        "StationName": "Fox River at Sullivan Br. (FR8)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "87700940",
+        "ParameterCode": "940",
+        "StationName": "Indian Creek at  Reckinger Rd. (IC1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "87500940",
+        "ParameterCode": "940",
+        "StationName": "Indian Creek ups Outfall (IC2)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "87400940",
+        "ParameterCode": "940",
+        "StationName": "Indian Creek dns Outfall (IC3)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "27600940",
+        "ParameterCode": "940",
+        "StationName": "Indian Creek u/s Rt. 25 (IC4)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "48500940",
+        "ParameterCode": "940",
+        "StationName": "Fox River at North Ave. Br. (FR9)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "28400940",
+        "ParameterCode": "940",
+        "StationName": "Fox River at Ashland Ave. (FR10)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "2700940",
+        "ParameterCode": "940",
+        "StationName": "Fox River at Montgomery (FR11)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "3300940",
+        "ParameterCode": "940",
+        "StationName": "Fox River at Rt. 34, Oswego (FR12)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "3400940",
+        "ParameterCode": "940",
+        "StationName": "Fox River at Yorkville (FR13)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "2800940",
+        "ParameterCode": "940",
+        "StationName": "Blackberry Creek near Yorkville (BC1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "28700940",
+        "ParameterCode": "940",
+        "StationName": "Blackberry Creek near Yorkville Side Rd. (BC2)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "600940",
+        "ParameterCode": "940",
+        "StationName": "Little Indian Creek at dns Unversity Rd. Br. (LC1)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "3100940",
+        "ParameterCode": "940",
+        "StationName": "Fox River at Rt. 71 (FR14)",
+        "ParameterNames": "Total Chloride "
+    },
+    {
+        "record_code": "1970010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at Rt. 173 near Channel Lake (FR1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "2360010",
+        "ParameterCode": "10",
+        "StationName": "Nippersink Creek near Spring Grove (NC1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "1840010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at Chapel Rd, Johnsburg (FR2)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "2660010",
+        "ParameterCode": "10",
+        "StationName": "Sleepy Hollow Creek at Stilling Ln. (SH1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "230010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at Burtons Br. (FR3)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "6880010",
+        "ParameterCode": "10",
+        "StationName": "Silver Creek at Lk shore Dr. & E. Park Ln. (SC1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "2580010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at Rawson Rd., E Oakwood Hills (FR4)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "2710010",
+        "ParameterCode": "10",
+        "StationName": "Crystal Lk Outlet-Rt 31, Algonquin (CL1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "240010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at Algonquin (FR5)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50460010",
+        "ParameterCode": "10",
+        "StationName": "Tyler Creek at Damisch (TC1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50490010",
+        "ParameterCode": "10",
+        "StationName": "Tyler Creek at Highland (TC2)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50480010",
+        "ParameterCode": "10",
+        "StationName": "Tyler Creek at McCornack (TC3)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50450010",
+        "ParameterCode": "10",
+        "StationName": "Tyler Creek at Timber Trail (TC4)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50440010",
+        "ParameterCode": "10",
+        "StationName": "Tyler Creek at Old Randall (TC5)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50420010",
+        "ParameterCode": "10",
+        "StationName": "Tyler Creek at Spring Cove (TC6)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50470010",
+        "ParameterCode": "10",
+        "StationName": "Tyler Creek at Judson (TC7)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "250010",
+        "ParameterCode": "10",
+        "StationName": "Poplar Creek at Elgin (PC1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "260010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at South Elgin (FR6)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50430010",
+        "ParameterCode": "10",
+        "StationName": "Sandy Creek  (SY1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50330010",
+        "ParameterCode": "10",
+        "StationName": "Otter Creek at Bowes Rd. (OC1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50340010",
+        "ParameterCode": "10",
+        "StationName": "Fitchie Creek at Bowes Rd. (FT1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50350010",
+        "ParameterCode": "10",
+        "StationName": "Stoney Creek at Stevens Rd. (ST1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50360010",
+        "ParameterCode": "10",
+        "StationName": "Otter Creek at Burr (OC2)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50370010",
+        "ParameterCode": "10",
+        "StationName": "Otter Creek at Silver Glen Rd. (OC3)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50410010",
+        "ParameterCode": "10",
+        "StationName": "Ferson Creek at Hidden Springs (FC1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50400010",
+        "ParameterCode": "10",
+        "StationName": "Ferson Creek at Burlington & Corran Rds. (FC2)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50380010",
+        "ParameterCode": "10",
+        "StationName": "Ferson Creek at Burr (FC3)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "50390010",
+        "ParameterCode": "10",
+        "StationName": "Ferson Creek at Randall Rd. (FC4)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "790010",
+        "ParameterCode": "10",
+        "StationName": "Ferson Creek near St. Charles (FC5)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "400010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at Fabyan Pk-Geneva (FR7)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "4710010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at Sullivan Br. (FR8)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "8770010",
+        "ParameterCode": "10",
+        "StationName": "Indian Creek at  Reckinger Rd. (IC1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "8750010",
+        "ParameterCode": "10",
+        "StationName": "Indian Creek ups Outfall (IC2)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "8740010",
+        "ParameterCode": "10",
+        "StationName": "Indian Creek dns Outfall (IC3)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "2760010",
+        "ParameterCode": "10",
+        "StationName": "Indian Creek u/s Rt. 25 (IC4)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "4850010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at North Ave. Br. (FR9)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "2840010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at Ashland Ave. (FR10)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "270010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at Montgomery (FR11)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "330010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at Rt. 34, Oswego (FR12)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "340010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at Yorkville (FR13)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "280010",
+        "ParameterCode": "10",
+        "StationName": "Blackberry Creek near Yorkville (BC1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "2870010",
+        "ParameterCode": "10",
+        "StationName": "Blackberry Creek near Yorkville Side Rd. (BC2)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "60010",
+        "ParameterCode": "10",
+        "StationName": "Little Indian Creek at dns Unversity Rd. Br. (LC1)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "310010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at Rt. 71 (FR14)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "6120010",
+        "ParameterCode": "10",
+        "StationName": "Fox River at Ottawa (FR15)",
+        "ParameterNames": "Water Temperature "
+    },
+    {
+        "record_code": "19700406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at Rt. 173 near Channel Lake (FR1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "23600406",
+        "ParameterCode": "406",
+        "StationName": "Nippersink Creek near Spring Grove (NC1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "18400406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at Chapel Rd, Johnsburg (FR2)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "26600406",
+        "ParameterCode": "406",
+        "StationName": "Sleepy Hollow Creek at Stilling Ln. (SH1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "2300406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at Burtons Br. (FR3)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "68800406",
+        "ParameterCode": "406",
+        "StationName": "Silver Creek at Lk shore Dr. & E. Park Ln. (SC1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "25800406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at Rawson Rd., E Oakwood Hills (FR4)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "27100406",
+        "ParameterCode": "406",
+        "StationName": "Crystal Lk Outlet-Rt 31, Algonquin (CL1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "2400406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at Algonquin (FR5)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "504600406",
+        "ParameterCode": "406",
+        "StationName": "Tyler Creek at Damisch (TC1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "504900406",
+        "ParameterCode": "406",
+        "StationName": "Tyler Creek at Highland (TC2)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "504800406",
+        "ParameterCode": "406",
+        "StationName": "Tyler Creek at McCornack (TC3)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "504500406",
+        "ParameterCode": "406",
+        "StationName": "Tyler Creek at Timber Trail (TC4)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "504400406",
+        "ParameterCode": "406",
+        "StationName": "Tyler Creek at Old Randall (TC5)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "504200406",
+        "ParameterCode": "406",
+        "StationName": "Tyler Creek at Spring Cove (TC6)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "504700406",
+        "ParameterCode": "406",
+        "StationName": "Tyler Creek at Judson (TC7)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "2500406",
+        "ParameterCode": "406",
+        "StationName": "Poplar Creek at Elgin (PC1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "2600406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at South Elgin (FR6)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "504300406",
+        "ParameterCode": "406",
+        "StationName": "Sandy Creek  (SY1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "503300406",
+        "ParameterCode": "406",
+        "StationName": "Otter Creek at Bowes Rd. (OC1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "503400406",
+        "ParameterCode": "406",
+        "StationName": "Fitchie Creek at Bowes Rd. (FT1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "503500406",
+        "ParameterCode": "406",
+        "StationName": "Stoney Creek at Stevens Rd. (ST1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "503600406",
+        "ParameterCode": "406",
+        "StationName": "Otter Creek at Burr (OC2)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "503700406",
+        "ParameterCode": "406",
+        "StationName": "Otter Creek at Silver Glen Rd. (OC3)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "504100406",
+        "ParameterCode": "406",
+        "StationName": "Ferson Creek at Hidden Springs (FC1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "504000406",
+        "ParameterCode": "406",
+        "StationName": "Ferson Creek at Burlington & Corran Rds. (FC2)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "503800406",
+        "ParameterCode": "406",
+        "StationName": "Ferson Creek at Burr (FC3)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "503900406",
+        "ParameterCode": "406",
+        "StationName": "Ferson Creek at Randall Rd. (FC4)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "7900406",
+        "ParameterCode": "406",
+        "StationName": "Ferson Creek near St. Charles (FC5)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "4000406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at Fabyan Pk-Geneva (FR7)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "47100406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at Sullivan Br. (FR8)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "87700406",
+        "ParameterCode": "406",
+        "StationName": "Indian Creek at  Reckinger Rd. (IC1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "87500406",
+        "ParameterCode": "406",
+        "StationName": "Indian Creek ups Outfall (IC2)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "87400406",
+        "ParameterCode": "406",
+        "StationName": "Indian Creek dns Outfall (IC3)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "27600406",
+        "ParameterCode": "406",
+        "StationName": "Indian Creek u/s Rt. 25 (IC4)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "48500406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at North Ave. Br. (FR9)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "28400406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at Ashland Ave. (FR10)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "2700406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at Montgomery (FR11)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "3300406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at Rt. 34, Oswego (FR12)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "3400406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at Yorkville (FR13)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "2800406",
+        "ParameterCode": "406",
+        "StationName": "Blackberry Creek near Yorkville (BC1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "28700406",
+        "ParameterCode": "406",
+        "StationName": "Blackberry Creek near Yorkville Side Rd. (BC2)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "600406",
+        "ParameterCode": "406",
+        "StationName": "Little Indian Creek at dns Unversity Rd. Br. (LC1)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "3100406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at Rt. 71 (FR14)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "61200406",
+        "ParameterCode": "406",
+        "StationName": "Fox River at Ottawa (FR15)",
+        "ParameterNames": "pH "
+    },
+    {
+        "record_code": "1970095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at Rt. 173 near Channel Lake (FR1)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "2360095",
+        "ParameterCode": "95",
+        "StationName": "Nippersink Creek near Spring Grove (NC1)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "1840095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at Chapel Rd, Johnsburg (FR2)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "2660095",
+        "ParameterCode": "95",
+        "StationName": "Sleepy Hollow Creek at Stilling Ln. (SH1)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "230095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at Burtons Br. (FR3)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "6880095",
+        "ParameterCode": "95",
+        "StationName": "Silver Creek at Lk shore Dr. & E. Park Ln. (SC1)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "2580095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at Rawson Rd., E Oakwood Hills (FR4)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "2710095",
+        "ParameterCode": "95",
+        "StationName": "Crystal Lk Outlet-Rt 31, Algonquin (CL1)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "240095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at Algonquin (FR5)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "250095",
+        "ParameterCode": "95",
+        "StationName": "Poplar Creek at Elgin (PC1)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "260095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at South Elgin (FR6)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "790095",
+        "ParameterCode": "95",
+        "StationName": "Ferson Creek near St. Charles (FC5)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "400095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at Fabyan Pk-Geneva (FR7)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "4710095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at Sullivan Br. (FR8)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "8770095",
+        "ParameterCode": "95",
+        "StationName": "Indian Creek at  Reckinger Rd. (IC1)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "8750095",
+        "ParameterCode": "95",
+        "StationName": "Indian Creek ups Outfall (IC2)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "8740095",
+        "ParameterCode": "95",
+        "StationName": "Indian Creek dns Outfall (IC3)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "2760095",
+        "ParameterCode": "95",
+        "StationName": "Indian Creek u/s Rt. 25 (IC4)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "4850095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at North Ave. Br. (FR9)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "2840095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at Ashland Ave. (FR10)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "270095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at Montgomery (FR11)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "330095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at Rt. 34, Oswego (FR12)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "340095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at Yorkville (FR13)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "280095",
+        "ParameterCode": "95",
+        "StationName": "Blackberry Creek near Yorkville (BC1)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "2870095",
+        "ParameterCode": "95",
+        "StationName": "Blackberry Creek near Yorkville Side Rd. (BC2)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "60095",
+        "ParameterCode": "95",
+        "StationName": "Little Indian Creek at dns Unversity Rd. Br. (LC1)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "310095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at Rt. 71 (FR14)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "6120095",
+        "ParameterCode": "95",
+        "StationName": "Fox River at Ottawa (FR15)",
+        "ParameterNames": "Specific Conductance "
+    },
+    {
+        "record_code": "1970082079",
+        "ParameterCode": "82079",
+        "StationName": "Fox River at Rt. 173 near Channel Lake (FR1)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "2360082079",
+        "ParameterCode": "82079",
+        "StationName": "Nippersink Creek near Spring Grove (NC1)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "1840082079",
+        "ParameterCode": "82079",
+        "StationName": "Fox River at Chapel Rd, Johnsburg (FR2)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "2660082079",
+        "ParameterCode": "82079",
+        "StationName": "Sleepy Hollow Creek at Stilling Ln. (SH1)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "230082079",
+        "ParameterCode": "82079",
+        "StationName": "Fox River at Burtons Br. (FR3)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "6880082079",
+        "ParameterCode": "82079",
+        "StationName": "Silver Creek at Lk shore Dr. & E. Park Ln. (SC1)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "2580082079",
+        "ParameterCode": "82079",
+        "StationName": "Fox River at Rawson Rd., E Oakwood Hills (FR4)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "2710082079",
+        "ParameterCode": "82079",
+        "StationName": "Crystal Lk Outlet-Rt 31, Algonquin (CL1)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "240082079",
+        "ParameterCode": "82079",
+        "StationName": "Fox River at Algonquin (FR5)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "250082079",
+        "ParameterCode": "82079",
+        "StationName": "Poplar Creek at Elgin (PC1)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "260082079",
+        "ParameterCode": "82079",
+        "StationName": "Fox River at South Elgin (FR6)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "790082079",
+        "ParameterCode": "82079",
+        "StationName": "Ferson Creek near St. Charles (FC5)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "400082079",
+        "ParameterCode": "82079",
+        "StationName": "Fox River at Fabyan Pk-Geneva (FR7)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "2760082079",
+        "ParameterCode": "82079",
+        "StationName": "Indian Creek u/s Rt. 25 (IC4)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "270082079",
+        "ParameterCode": "82079",
+        "StationName": "Fox River at Montgomery (FR11)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "330082079",
+        "ParameterCode": "82079",
+        "StationName": "Fox River at Rt. 34, Oswego (FR12)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "340082079",
+        "ParameterCode": "82079",
+        "StationName": "Fox River at Yorkville (FR13)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "280082079",
+        "ParameterCode": "82079",
+        "StationName": "Blackberry Creek near Yorkville (BC1)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "2870082079",
+        "ParameterCode": "82079",
+        "StationName": "Blackberry Creek near Yorkville Side Rd. (BC2)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "60082079",
+        "ParameterCode": "82079",
+        "StationName": "Little Indian Creek at dns Unversity Rd. Br. (LC1)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "310082079",
+        "ParameterCode": "82079",
+        "StationName": "Fox River at Rt. 71 (FR14)",
+        "ParameterNames": "Turbidity "
+    },
+    {
+        "record_code": "1970032209",
+        "ParameterCode": "32209",
+        "StationName": "Fox River at Rt. 173 near Channel Lake (FR1)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "2360032209",
+        "ParameterCode": "32209",
+        "StationName": "Nippersink Creek near Spring Grove (NC1)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "1840032209",
+        "ParameterCode": "32209",
+        "StationName": "Fox River at Chapel Rd, Johnsburg (FR2)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "2660032209",
+        "ParameterCode": "32209",
+        "StationName": "Sleepy Hollow Creek at Stilling Ln. (SH1)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "230032209",
+        "ParameterCode": "32209",
+        "StationName": "Fox River at Burtons Br. (FR3)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "6880032209",
+        "ParameterCode": "32209",
+        "StationName": "Silver Creek at Lk shore Dr. & E. Park Ln. (SC1)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "2580032209",
+        "ParameterCode": "32209",
+        "StationName": "Fox River at Rawson Rd., E Oakwood Hills (FR4)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "2710032209",
+        "ParameterCode": "32209",
+        "StationName": "Crystal Lk Outlet-Rt 31, Algonquin (CL1)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "240032209",
+        "ParameterCode": "32209",
+        "StationName": "Fox River at Algonquin (FR5)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "260032209",
+        "ParameterCode": "32209",
+        "StationName": "Fox River at South Elgin (FR6)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "790032209",
+        "ParameterCode": "32209",
+        "StationName": "Ferson Creek near St. Charles (FC5)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "400032209",
+        "ParameterCode": "32209",
+        "StationName": "Fox River at Fabyan Pk-Geneva (FR7)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "4710032209",
+        "ParameterCode": "32209",
+        "StationName": "Fox River at Sullivan Br. (FR8)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "8770032209",
+        "ParameterCode": "32209",
+        "StationName": "Indian Creek at  Reckinger Rd. (IC1)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "8750032209",
+        "ParameterCode": "32209",
+        "StationName": "Indian Creek ups Outfall (IC2)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "8740032209",
+        "ParameterCode": "32209",
+        "StationName": "Indian Creek dns Outfall (IC3)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "2760032209",
+        "ParameterCode": "32209",
+        "StationName": "Indian Creek u/s Rt. 25 (IC4)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "4850032209",
+        "ParameterCode": "32209",
+        "StationName": "Fox River at North Ave. Br. (FR9)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "2840032209",
+        "ParameterCode": "32209",
+        "StationName": "Fox River at Ashland Ave. (FR10)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "270032209",
+        "ParameterCode": "32209",
+        "StationName": "Fox River at Montgomery (FR11)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "330032209",
+        "ParameterCode": "32209",
+        "StationName": "Fox River at Rt. 34, Oswego (FR12)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "340032209",
+        "ParameterCode": "32209",
+        "StationName": "Fox River at Yorkville (FR13)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "2870032209",
+        "ParameterCode": "32209",
+        "StationName": "Blackberry Creek near Yorkville Side Rd. (BC2)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "60032209",
+        "ParameterCode": "32209",
+        "StationName": "Little Indian Creek at dns Unversity Rd. Br. (LC1)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    },
+    {
+        "record_code": "310032209",
+        "ParameterCode": "32209",
+        "StationName": "Fox River at Rt. 71 (FR14)",
+        "ParameterNames": "Chlorophyll-A, corrected "
+    }
+]

@@ -1,0 +1,32 @@
+[
+	{
+        "Parameter_Code": "940",
+        "ParameterName": "Total Chloride ",
+        "Facthsheet_filename": "940_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "10",
+        "ParameterName": "Water Temperature ",
+        "Facthsheet_filename": "10_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "95",
+        "ParameterName": "Specific Conductance ",
+        "Facthsheet_filename": "95_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "406",
+        "ParameterName": "pH ",
+        "Facthsheet_filename": "406_Factsheet.pdf"
+    },
+	{
+        "Parameter_Code": "82079",
+        "ParameterName": "Turbidity ",
+        "Facthsheet_filename": "82079_Factsheet.pdf"
+    },
+    {
+        "Parameter_Code": "32209",
+        "ParameterName": "Chlorophyll-A, corrected ",
+        "Facthsheet_filename": "32209_Factsheet.pdf"
+    }
+]

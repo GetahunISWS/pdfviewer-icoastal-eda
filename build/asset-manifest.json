@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pdfviewer-icoastal-eda/static/css/main.fb5cf303.css",
+    "main.js": "/pdfviewer-icoastal-eda/static/js/main.3c86d4b4.js",
+    "static/js/787.dd913f3a.chunk.js": "/pdfviewer-icoastal-eda/static/js/787.dd913f3a.chunk.js",
+    "static/media/CoverPhotoByAtticus.jpg": "/pdfviewer-icoastal-eda/static/media/CoverPhotoByAtticus.c84ceb91245ad63ed74f.jpg",
+    "pdf.worker.js": "/pdfviewer-icoastal-eda/d6247b7eac59574c837f8a9ff1ba1917.js",
+    "static/media/ISWSLogo.PNG": "/pdfviewer-icoastal-eda/static/media/ISWSLogo.50b08cfa14ac22390804.PNG",
+    "index.html": "/pdfviewer-icoastal-eda/index.html",
+    "main.fb5cf303.css.map": "/pdfviewer-icoastal-eda/static/css/main.fb5cf303.css.map",
+    "main.3c86d4b4.js.map": "/pdfviewer-icoastal-eda/static/js/main.3c86d4b4.js.map",
+    "787.dd913f3a.chunk.js.map": "/pdfviewer-icoastal-eda/static/js/787.dd913f3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb5cf303.css",
+    "static/js/main.3c86d4b4.js"
+  ]
+}
